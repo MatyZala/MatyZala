@@ -26,6 +26,6 @@ Siempre en movimiento, acá 👇 podrás encontrar algunos proyectos que hice de
 
 📬 Por cualquier duda, no dudes en escribirme.
 
-Linkedin 👉 https://www.linkedin.com/in/matias-zalazar-b84726213/
+Linkedin 👉 https://www.linkedin.com/in/matias-l-zalazar/
 
 Gmail 👉 mzx631@gmail.com
