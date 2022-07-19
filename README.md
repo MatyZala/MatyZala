@@ -1,4 +1,4 @@
-👋 Soy Matias L. Zalazar! Full-Stack Developer.
+👋 Soy Matias L. Zalazar! Full-Stack Developer. Cordoba-Argentina
 
 🌱 Desde finales del 2021, que empecé a profundizar en mi gusto por la programación. Hoy puedo decir que soy 😃 Full Stack Developer. 😃 Estudiando en Henry y capacitándome día a día descubrí que programar es lo que más me apasiona. Siempre pensando en el usuario; en la interacción que va a tener con el producto , la funcionalidad y en la estética que busca encontrar en la página.
 
